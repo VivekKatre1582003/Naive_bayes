@@ -22,7 +22,3 @@ The goal of this project is to use a **Naive Bayes classifier** to predict the s
   - `scikit-learn`
   - `matplotlib`
 
-You can install the required libraries using `pip`:
-
-```bash
-pip install -r requirements.txt
